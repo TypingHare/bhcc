@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Note</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="email_colon">Email:</string>
+    <string name="password_colon">Password:</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="new_user">New User</string>
+    <string name="set_password">Set Password</string>
+    <string name="temporary_password_colon">Temporary Password:</string>
+    <string name="new_password_colon">Password:</string>
+    <string name="please_input_your_email">Please Input your email.</string>
+    <string name="first_name_colon">First Name:</string>
+    <string name="last_name_colon">Last Name:</string>
+    <string name="welcome_to_create_new_account">Welcome to create new account!</string>
+    <string name="verification_code_prompt">Please enter your temporary password that was sent to your email.</string>
+    <string name="finish_registration">Finish Registration</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="title">Title:</string>
+    <string name="what_is_your_email">What is your Email?</string>
+    <string name="reset">Reset</string>
+    <string name="temp_pass">Temp pass:</string>
+    <string name="password">Password:</string>
+    <string name="save">Save</string>
+    <string name="share_document">Share Document</string>
+    <string name="load_document">Load Document</string>
+    <string name="documents">Documents</string>
+    <string name="show_shared_documents">Show Shared Documents</string>
+    <string name="back">Back</string>
+    <string name="new_document">New Document</string>
+    <string name="set_private">Set Private</string>
+    <string name="delete_document">Delete Document</string>
+    <string name="sign_out">Sign out</string>
+</resources>

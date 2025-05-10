@@ -1,3 +1,3 @@
-# [bhcc](https://github.com/TypingHare/bhcc)
+# Android Development
 
-BHCC Coursework
+> This repository is for the **2023SP CSC-244 (Android Development/Kotlin)** course in BHCC.
