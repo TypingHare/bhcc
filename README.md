@@ -1,3 +1,3 @@
-# [bhcc](https://github.com/TypingHare/bhcc)
+# Advanced Java
 
-BHCC Coursework
+> This repository is for the **2023SP CSC-285** (Advanced Java) course in BHCC.
