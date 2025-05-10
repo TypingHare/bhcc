@@ -1,3 +1,3 @@
-# [bhcc](https://github.com/TypingHare/bhcc)
+# C++ Programming
 
-BHCC Coursework
+> This repository is for the **2023SP CSC-237H (C++ Programming)** course in BHCC.
